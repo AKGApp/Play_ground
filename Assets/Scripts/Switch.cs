@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class Switch : MonoBehaviour
 {
-    
     public AudioSource SoundPlayer;
     public void Scene(string name)
     {
